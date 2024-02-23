@@ -1,6 +1,6 @@
 module github.com/Tony-Macarony/workers-ai-web
 
-go 1.22.0
+go 1.23.0
 
 require (
 	github.com/go-resty/resty/v2 v2.10.0
